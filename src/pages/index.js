@@ -13,14 +13,14 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Declan Kehoe portfolio" />
-      <Page>
+      <Seo title="Declan Kehoe Portfolio" />
+      <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
         <AboutSection sectionId="about" heading="About Me" />
+        <ProjectsSection sectionId="projects" heading="Recent Projects" />
         <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
+        <ContactSection sectionId="github" heading="@ ME LIKE IT'S 1999!?" />
       </Page>
     </>
   );

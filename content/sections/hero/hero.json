@@ -12,7 +12,7 @@
   },
   "description": "I am pizza, Totino's, boy ",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }

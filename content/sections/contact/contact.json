@@ -8,6 +8,6 @@
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
