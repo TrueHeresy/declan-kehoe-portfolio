@@ -1,14 +1,16 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/bilbo.jpg"
+imageAlt: "A picture of a very cute little dog"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+ I just really like games, and I'd love to make them with you.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I went to the University of Manchester as a mature student to try and figure some things out. I studied human computer interaction, which game 
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Before that I was in the arts; I played guitar, did speech and drama, that kind of thing.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Now I want to combine all the skills I’ve learned academically, and through projects, into something bigger and more fun!
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I made this website mostly using React, so I’ll put that in a list of icons somewhere that indicate I know a language.
+
+Here's a photo of my dog, Bilbo. Because I'm self-concious.
