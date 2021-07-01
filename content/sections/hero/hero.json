@@ -10,9 +10,9 @@
     "highlight": "for you",
     "suffix": "."
   },
-  "description": "I am pizza, Totino's, boy ",
+  "description": "Please take a look around, see what I'm about and hopefully, get in touch! ",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["Mail", "LinkedIn", "Github"],
     "showIcons": true
   }
 }
