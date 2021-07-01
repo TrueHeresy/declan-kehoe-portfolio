@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "title": "Declan Kehoe Portfolio",
+    "titleTemplate": "%s · Declan Kehoe Portfolio",
+    "description": "A portfolio for Declan Kehoe, built using the portofolio minimal Gatsby starter.",
+    "author": "Declan Kehoe",
+    "avatar": "../content/images/declan.jpg",
+    "bio": "Declan Kehoe is a recent graduate who is looking for a job, and would like to show you some things he worked on so that you may want to hire him!",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/True-Heresy",
