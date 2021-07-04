@@ -15,44 +15,44 @@
       }
     },
     {
-      "label": "C#",
+      "label": "Git",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/git-icon.png",
         "alt": ""
       }
     },
     {
-      "label": "Git",
+      "label": "C#",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/csharp.png",
         "alt": ""
       }
     },
     {
       "label": "Unity",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/unity-icon.png",
         "alt": ""
       }
     },
     {
       "label": "JS",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/js-icon.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/react-icon.png",
         "alt": ""
       }
     },
     {
       "label": "Sketch",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/sketch-icon.png",
         "alt": ""
       }
     }

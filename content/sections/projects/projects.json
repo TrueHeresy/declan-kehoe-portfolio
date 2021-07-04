@@ -2,9 +2,26 @@
   "projects": [
     {
       "visible": true,
+      "category": "Game Dev Society Game Project",
+      "title": "Sound Design, Music, and Scripting",
+      "description": "For this project I helped with ideation, composed music, created sound effects, and used Unity to develop the scripts for those sound systems. Click the button below for the blog post on it!",
+      "tags": ["Game Dev", "Unity"],
+      "image": {
+        "src": "../../images/vsc-unity.png",
+        "alt": "Screenshot of the game being developed"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "/game-dev/uni-game-project"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Final Year Project in Java/Processing3 ",
       "title": "Generative Music Application!",
-      "description": "This was a complete project that was solo designed & developed. Everything was designed to be simple and approachable to users, and this we evaluated through multiples feedback interviews. Check the link for more! ",
+      "description": "This was a complete project that was solo designed & developed. Everything was designed to be simple and approachable to users, and this we evaluated through multiples feedback interviews. Click the button below for the blog post on it!",
       "tags": ["Full-Stack", "UX"],
       "image": {
         "src": "../../images/generative-app-screenshot.png",
@@ -12,29 +29,8 @@
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/TrueHeresy/Portfolio/tree/main/Generative%20Music%20App"
-        },
-        {
           "type": "external",
           "url": "/generative-music-project/writeup/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         }
       ]
     }
