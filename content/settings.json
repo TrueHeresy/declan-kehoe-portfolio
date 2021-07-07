@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "CV",
-        "url": "/cv"
+        "url": "/cv.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

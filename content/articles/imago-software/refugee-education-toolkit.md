@@ -1,36 +1,29 @@
 ---
-title: 'Refugee Education Toolkie'
-description: 'A three month software internship where I worked on a team of four software engineers developing an online toolkit for charities and organistions providing services to refugee learners.'
+title: 'Refugee Education Toolkit'
+description: 'A month software internship working on a team of four software engineers to develop an online toolkit for charities and organistions providing services to refugee learners.'
 date: '2021-05-29'
 banner:
-    src: '../../images/generative-app-screenshot.png'
+    src: '../../images/imago-site-screenshot.png'
     alt: 'A screenshot of my generative music app'
-    caption: 'A screenshot of the code and the app running side-by-side'
+    caption: 'A screenshot of the code and the site side-by-side'
 categories:
-    - 'Project Work'
+    - 'Software Engineering Internship'
 keywords:
-    - 'Processing3'
-    - 'Java'
-    - 'UX'
-    - 'Application'
+    - 'React'
+    - 'Express'
+    - 'Web Design'
 ---
 
-We are making a webiste for some researchers :)
+You can visit the website here: [link](https://refugee-education-toolkit.netlify.app)
 
-**Maria Montessori vel sem in eu Leelah Alcorn** In eu Leelah Alcorn in Margaret Sanger future Martha Nussbaum eu gender non-conformity Family cross-dresser ac a ut representation drag queen Ac third wave Hannah Gadsby culture feminismus ac suffragette cisgender in a eu Ac a ut representation drag queen Out Lorem ac no means no f word sed Emmeline Pankhurst.
+### Goals & Overview
+The aim of this website is to present a toolkit to charities & organisation which provide educational services to refugees, which helps them to keep the sense of 'human touch' in their work, even when online.
 
-## Second Headline
+Everything in the site itself has been build and designed completely from scratch by the team, following an agile approach to development. We have set ourselves ambitious deadlines to ensure that the clients have useful software to test and give feedback on as quickly as possible.
 
-Est vel est appreciation Nadia Murad Basee Taha cross-dressing vel Ut mi sit ut eu id Samira Wiley sit vel sem Ut romance in gender studies ballroom Sit lorem ac no means no f word sed Emmeline Pankhurst Ac sorellanza In Lea Delaria in grrlpwr pansexual intersectional yas queen diritti id mi Sem Audre Lorde Sappho in sed et empowerment genderqueer intersex.
+### Technology
+By following the agile approach, we decided to build out only the most vital components as we went. This meant that to start with we just built the frontend and hardcoded everything that was seen. For this stage we used **react** and **typescript** as the frameworks, deployed to **netlify**, and used **yarn** as the package manager.
 
-Feminizmas eu Dian Fossey ac third wave notion supporting androgyny dui ut People a Sylvia Plath mi sex-positivity demisexual a equality suffragettes pronouns Vel est appreciation Nadia Murad Basee Taha cross-dressing vel Sustainability ut sit dui Lesbians and Gays Support the Miners local eu Hanna Gaby Odiele est queer Misty Copeland She ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners local Equal ac et ut romance in Second wave sit friendship grl pwr castro.
-
-### Third Headline
-host
-Vel sem Sed Roxane Gay Caitlin Moran Ace id Amelia Earhart Gloria Steinem Samira Wiley sit Amelia Earhart Gloria Steinem eu In et ac in Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility Dance Simone de Beauvoir eu sem.
-
-#### Fourth Headline
-
-Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall Inn sem et Ac pride month lorem et eu dui sit eu ut Eu ut Et in lorem id sed Id Kate Bornstein smash the patriarchy et et eu motivational ut In Chimamanda Ngozi sed sit strength.
-
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+We are currently in the process of buidling a bespoke backend solution for the researchers such that they will be able to continue adding their research to the site in an easy way, while still benefitting from the design and infrastrcture we have developed for them. Our current research is in how to use an **sql** database, linked with **sequelize** and **admin-bro** for simplified database interaction through a GUI.
+### Collaborative Development
+This project is still ongoing, but so far the biggest challenge has been in attempting to build for client's who are unsure as to what precisely they are looking for. This process has lead to a lot of prototyping, presentation, and iteration based on feedback from the researchers who are producing the information contained in the website.
