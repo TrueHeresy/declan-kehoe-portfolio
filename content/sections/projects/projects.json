@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Game Dev Society Game Project",
       "title": "Sound Design, Music, and Scripting",
-      "description": "For this project I helped with ideation, composed music, created sound effects, and used Unity to develop the scripts for those sound systems. Click the button below for the blog post on it!",
+      "description": "For this project I helped with ideation, composed music, created sound effects, and used Unity to develop scripts implementing them.",
       "tags": ["Game Dev", "Unity"],
       "image": {
         "src": "../../images/vsc-unity.png",
@@ -21,7 +21,7 @@
       "visible": true,
       "category": "Final Year Project in Java/Processing3 ",
       "title": "Generative Music Application!",
-      "description": "This was a complete project that was solo designed & developed. Everything was designed to be simple and approachable to users, and this we evaluated through multiples feedback interviews. Click the button below for the blog post on it!",
+      "description": "This was a complete project that was solo designed & developed. Everything was designed to be simple and approachable for users, which was evaluated through interviews.",
       "tags": ["Full-Stack", "UX"],
       "image": {
         "src": "../../images/generative-app-screenshot.png",

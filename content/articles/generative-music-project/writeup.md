@@ -15,10 +15,10 @@ keywords:
     - 'Application'
 ---
 
-You can download the project yourself from [github](https://github.com/TrueHeresy/Portfolio/tree/main/Generative%20Music%20App). Please note: 
-* Java is bundled only with the macOS verison of the app, on Windows a prompt will suggest a download for the correct version.
+You can download the project yourself from ***[github](https://github.com/TrueHeresy/Portfolio/tree/main/Generative%20Music%20App)***. Please note: 
+* Java is bundled only with the macOS verison of the app, on Windows a prompt *should* suggest a download for the correct version.
 * You may need to override some security warnings - that might be worrying, but I _promise_ I'm not trying to mess up your computer.
-There is also a big old report that I wrote which goes into a **lot** of detail, which you can download <a href="../../generative_music_report.pdf">here</a>.
+There is also a big old report that I wrote which goes into a **lot** of detail, which you can download <a href="../../generative_music_report.pdf"><i><b>here</i></b></a>.
 
 ### Project Overview
 Generative music describes an indirect form of music creation, wherein the composer sets parameters by which the music will generate itself.
@@ -41,7 +41,7 @@ A series of participants were asked questions on their experience of using the a
 After the interview process, themes were identified and quotes were pulled in order to explain the strengths and weaknesses that user's had identified.
 
 ### Improvements
-In the future I would like to do a few more things with this project. Namely to vastly improve the **accessibility** of the application by implementing better options for contrasting colours, as well as user selectable colour schemes for colour blindness. I would also make it possible for the user to resize the elemnts of the application, as well as the app window itself - although this would require a more thorough understanding of Processing's draw() loop.
+In the future I would like to do a few more things with this project. Namely to vastly improve the **accessibility** of the application by implementing better options for contrasting colours, as well as user selectable colour schemes for colour blindness. I would also make it possible for the user to resize the elements of the application, as well as the app window itself - although this would require a more thorough understanding of Processing's draw() loop.
 
 Another larger scale change would be to port the project to use Processing's JavaScript language. In doing so it would help to both solidfy my JS skills, and also make the application itself easier to access; as it would no longer require a user to download it & ensure they have the correct version of Java.
 ### Conclusion
@@ -51,4 +51,4 @@ I believe this project demonstrates a few key things.
 * To develop with a final user in mind
 * To quickly learn new skills & technologies
 
-Although this the end functionality of the app is specific to the domain of music generation, the process of making it taught me a far wider range of skills that are far more generalisable than just this topic!
+Although the end functionality of the app is specific to the domain of music generation, the process of making it taught me a far wider range of skills, generalisable to more than just this topic!

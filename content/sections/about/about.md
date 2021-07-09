@@ -7,8 +7,7 @@ I really like games, and I'd love to make them with you.
 
 I went to the University of Manchester as a mature student to try and figure some things out. 
 
-
-I got a 1st in human computer interaction - a mix of software engineering/psychology/biology/anthropology - which fitted my interest in... everything, really.
+I got a 1st in human computer interaction - a mix of software engineering, psychology, biology, & anthropology - which fitted my interest in... everything, really.
 
 Before that I was in the arts. I played guitar, did speech and drama, that kind of thing.
 
