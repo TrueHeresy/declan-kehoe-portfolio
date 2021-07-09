@@ -21,7 +21,7 @@
     "navigation": {
       "header": [
         { "label": "Overview", "url": "/#about" },
-        { "label": "Project Writeups", "url": "/blog" }
+        { "label": "Project Write-Ups", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,
