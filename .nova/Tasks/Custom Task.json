@@ -1,0 +1,13 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "gatsby build"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "gatsby develop"
+    }
+  },
+  "identifier" : "5D67DC9B-A797-4050-A4D8-C46C5CD4D115"
+}

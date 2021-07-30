@@ -12,7 +12,7 @@
   },
   "description": "Please take a look around, see what I'm about and hopefully, get in touch! ",
   "socialProfiles": {
-    "from": ["Mail", "LinkedIn", "Github"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }
